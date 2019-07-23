@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 the project begins. 
+=======
+the lesson begins. 
+>>>>>>> 64ce5efa4bf8c4fb30f0720b811d17b4416c057d
